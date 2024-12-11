@@ -1,5 +1,5 @@
 {
-  "proxy": "https://dolphin-app-9r5ys.ondigitalocean.app/api/v1",
+  "proxy": "https://seal-app-osr5f.ondigitalocean.app/api/v1",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
